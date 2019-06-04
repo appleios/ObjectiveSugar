@@ -1,7 +1,7 @@
 //
 //  AppDelegate.h
 //  ZeroZeroTwo
-//
+// 
 //  Created by Aziz Latypov on 04.06.19.
 //  Copyright © 2019 Sample. All rights reserved.
 //
