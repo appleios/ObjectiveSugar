@@ -2,21 +2,21 @@ PODS:
   - ObjectiveSugar (1.1.1)
 
 DEPENDENCIES:
-  - ObjectiveSugar (from `https://github.com/supermarin/ObjectiveSugar.git`, commit `3d1c39a`)
+  - ObjectiveSugar (from `https://github.com/appleios/ObjectiveSugar.git`, commit `3d1c39a`)
 
 EXTERNAL SOURCES:
   ObjectiveSugar:
     :commit: 3d1c39a
-    :git: https://github.com/supermarin/ObjectiveSugar.git
+    :git: https://github.com/appleios/ObjectiveSugar.git
 
 CHECKOUT OPTIONS:
   ObjectiveSugar:
     :commit: 3d1c39a
-    :git: https://github.com/supermarin/ObjectiveSugar.git
+    :git: https://github.com/appleios/ObjectiveSugar.git
 
 SPEC CHECKSUMS:
   ObjectiveSugar: 0729eb74a757ea48b109a8902178c9b89aa58a9f
 
-PODFILE CHECKSUM: b0a6ac27b25e05904b6f35438ef3ceb5015575d8
+PODFILE CHECKSUM: 80d860b3d61a45a8baba52a0fdd52f47b2d63042
 
 COCOAPODS: 1.7.1
