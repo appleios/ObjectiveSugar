@@ -6,12 +6,18 @@ DEPENDENCIES:
   - Kiwi (~> 2.3.0)
   - ObjectiveSugar (from `../`)
 
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kiwi
+
 EXTERNAL SOURCES:
   ObjectiveSugar:
     :path: "../"
 
 SPEC CHECKSUMS:
   Kiwi: f038a6c61f7a9e4d7766bff5717aa3b3fdb75f55
-  ObjectiveSugar: 0729eb74a757ea48b109a8902178c9b89aa58a9f
+  ObjectiveSugar: 2d76e8cd7965aa8c638c337186e59cedc6f697ca
 
-COCOAPODS: 0.36.4
+PODFILE CHECKSUM: e77b80e644294a498e6d25ec240d2c13b7a54026
+
+COCOAPODS: 1.5.3
